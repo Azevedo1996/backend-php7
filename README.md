@@ -50,14 +50,14 @@
     <li>Abra um Pull Request para que suas alterações sejam revisadas e mescladas ao projeto.</li>
   </ol>
 <h2>Telas do sistema</h2>
-  <img src="screenshots/1.png" alt="Tela de Login">
-  <img src="screenshots/2.png" alt="Tela de administrador">
-  <img src="screenshots/3.png" alt="Mostrando q troca de painel e opção de saída">
-  <img src="screenshots/4.png" alt="Tabela de funcionarios">
-  <img src="screenshots/5.png" alt="Tabela de usuarios">
-  <img src="screenshots/6.png" alt="Tabela de cargos">
-  <img src="screenshots/7.png" alt="Tela de funcionarios">
-  <img src="screenshots/8.png" alt="Tabela de clientes">
-  <img src="screenshots/9.png" alt="Banco de dados">
+  <img src="https://github.com/Azevedo1996/backend-php7/blob/main/screenshots/1.PNG" alt="Tela de Login">
+  <img src="https://github.com/Azevedo1996/backend-php7/blob/main/screenshots/2.PNG" alt="Tela de administrador">
+  <img src="https://github.com/Azevedo1996/backend-php7/blob/main/screenshots/3.PNG" alt="Mostrando q troca de painel e opção de saída">
+  <img src="https://github.com/Azevedo1996/backend-php7/blob/main/screenshots/4.PNG" alt="Tabela de funcionarios">
+  <img src="https://github.com/Azevedo1996/backend-php7/blob/main/screenshots/5.PNG" alt="Tabela de usuarios">
+  <img src="https://github.com/Azevedo1996/backend-php7/blob/main/screenshots/6.PNG" alt="Tabela de cargos">
+  <img src="https://github.com/Azevedo1996/backend-php7/blob/main/screenshots/7.PNG" alt="Tela de funcionarios">
+  <img src="https://github.com/Azevedo1996/backend-php7/blob/main/screenshots/8.PNG" alt="Tabela de clientes">
+  <img src="https://github.com/Azevedo1996/backend-php7/blob/main/screenshots/9.PNG" alt="Banco de dados">
  </body>
 </html>
